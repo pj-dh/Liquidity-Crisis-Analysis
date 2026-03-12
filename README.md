@@ -1,7 +1,5 @@
 # 🏦 Gamified Simulation for Liquidity Risk Management During Market Stress
 
-**A Beginner Data Science Portfolio Project**
-
 ---
 
 ## 📌 What Is This Project About?
